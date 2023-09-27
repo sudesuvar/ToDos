@@ -1,2 +1,2 @@
 # ToDos
-temel yapılacaklar listesi örneği
+Basic to do list example.
